@@ -1,0 +1,37 @@
+<svg width="130" height="44" viewBox="0 0 130 44" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="ghGrad" gradientUnits="objectBoundingBox" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#00e5ff"/>
+      <stop offset="20%" stop-color="#111122"/>
+      <stop offset="50%" stop-color="#8b5cf6"/>
+      <stop offset="80%" stop-color="#111122"/>
+      <stop offset="100%" stop-color="#00e5ff"/>
+      <animateTransform attributeName="gradientTransform" type="rotate"
+                        from="0 0.5 0.5" to="360 0.5 0.5"
+                        dur="8s" repeatCount="indefinite"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Badge background -->
+  <rect x="0" y="0" width="130" height="44" rx="22" ry="22" fill="#0a0a12"/>
+
+  <!-- Animated border -->
+  <rect x="1.25" y="1.25" width="127.5" height="41.5" rx="20.75" ry="20.75"
+        fill="none" stroke="url(#ghGrad)" stroke-width="2"
+        stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- Subtle outer border -->
+  <rect x="0.25" y="0.25" width="129.5" height="43.5" rx="21.75" ry="21.75"
+        fill="none" stroke="#AAAAAA" stroke-width="0.5"
+        stroke-linecap="round" stroke-linejoin="round"/>
+
+  <!-- GitHub icon (base64) -->
+  <image x="32" y="13" width="18" height="18"
+         href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iI2U4ZWVmOCIgZD0iTTEyIC41QzUuODYuNS41IDUuODYuNSAxMmMwIDUuMjUgMy40IDkuNyA4LjEyIDExLjI4LjYuMTEuODItLjI2LjgyLS41OCAwLS4yOC0uMDItMS4yMy0uMDItMi4yMy0zLjAyLjU2LTMuODMtLjc0LTQuMDgtMS40LS4xNC0uMzUtLjczLTEuNDEtMS4yNS0xLjY5LS40My0uMjMtMS4wNC0uOC0uMDEtLjgxLjk2LS4wMiAxLjY1Ljg4IDEuODggMS4yNiAxLjEgMS44NSAyLjg1IDEuMzMgMy41NCAxLjAxLjExLS43OS40Mi0xLjM0Ljc2LTEuNjQtMi42Ni0uMzEtNS40NS0xLjMzLTUuNDUtNS45MiAwLTEuMzEuNDctMi4zOCAxLjI0LTMuMjItLjEyLS4zMS0uNTQtMS41NC4xMi0zLjIgMCAwIDEuMDEtLjMyIDMuMyAxLjIzLjk2LS4yNyAxLjk5LS40IDMuMDEtLjRzMi4wNS4xNCAzLjAyLjRjMi4yOC0xLjU1IDMuMjktMS4yMyAzLjI5LTEuMjMuNjYgMS42Ni4yNCAyLjg5LjEyIDMuMi43Ny44NCAxLjIzIDEuOTEgMS4yMyAzLjIyIDAgNC42MS0yLjggNS42Mi01LjQ4IDUuOTIuNDMuMzcuODEgMS4xLjgxIDIuMjIgMCAxLjYtLjAyIDIuODktLjAyIDMuMjkgMCAuMzIuMjIuNjkuODMuNTdBMTEuNSAxMS41IDAgMCAwIDIzLjUgMTJDMjMuNSA1Ljg2IDE4LjE0LjUgMTIgLjVaIi8+PC9zdmc+"/>
+
+  <!-- "GitHub" text -->
+  <text x="56" y="27"
+        font-family="'Segoe UI', -apple-system, sans-serif"
+        font-size="12" font-weight="600"
+        fill="#c0c8e0">GitHub</text>
+</svg>

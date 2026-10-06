@@ -1,8 +1,16 @@
-<p align="center">
-  <img src="./top.gif" alt="Banner" width="100%">
-</p>
+# Hi, I'm mglantntte 👋
 
+## 🎬 Demo
+
+![Top](./assets/top.gif)
 
 ## `> tech_stack`
 
-![Tech Stack](./assets/stack.svg)
+![Stack](./assets/stack.svg)
+
+## 🔗 Badges
+
+![Badge 1](./assets/badge1.svg)
+![Badge 2](./assets/badge2.svg)
+![Badge 3](./assets/badge3.svg)
+![Badge 4](./assets/badge4.svg)
