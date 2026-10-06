@@ -1,6 +1,3 @@
-# Hi, I'm mglantntte 👋
-
-## 🎬 Demo
 
 ![Top](./assets/top.gif)
 
