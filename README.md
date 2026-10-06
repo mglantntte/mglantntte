@@ -1,5 +1,4 @@
-
-![Top](./assets/top.gif)
+<img src="./assets/top.gif" width="100%" />
 
 ## `> tech_stack`
 
