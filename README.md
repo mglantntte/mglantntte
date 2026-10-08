@@ -1,12 +1,26 @@
-<img src="./assets/top.gif" width="100%" />
+<img src="assets/top.gif" width="100%" />
 
-## `> tech_stack`
+<h2 align="center">
+  <code>&gt; tech_stack</code>
+</h2>
 
-![Stack](./assets/stack.svg)
+<p align="center">
+  <img src="./assets/stack.svg" width="80%" />
+</p>
 
-## 🔗 Badges
+<h2 align="center">🔗 Badges</h2>
 
-[![Badge 1](./assets/badge1.svg)](https://github.com/mglantntte)
-[![Badge 2](./assets/badge2.svg)](https://linkedin.com/in/YOUR-USERNAME)
-[![Badge 3](./assets/badge3.svg)](https://yourportfolio.com)
-[![Badge 4](./assets/badge4.svg)](mailto:miguelabaluca2004@gmail.com)
+<p align="center">
+  <a href="https://github.com/mglantntte">
+    <img src="./assets/badge1.svg" />
+  </a>
+  <a href="https://linkedin.com/in/YOUR-USERNAME">
+    <img src="./assets/badge2.svg" />
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="./assets/badge3.svg" />
+  </a>
+  <a href="mailto:miguelabaluca2004@gmail.com">
+    <img src="./assets/badge4.svg" />
+  </a>
+</p>
